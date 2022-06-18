@@ -1,0 +1,3 @@
+id,policyFrameworkId,remediationTypeId,guidedRemediationTemplateId,automatedRemediationTemplateId,policyRuleCategoryId,policyNo,definiton,riskCategoryId,severity,tritonConfigRuleRef,scheduleType,isEnabled
+1,1,2,1,,1,1.1,"Avoid the use of the \""root\"" account",1,Low,value not defined,Periodic,true
+2,1,2,1,,1,1.2,Ensure multi-factor authentication (MFA) is enabled for all IAM users that have a console password,1,Medium,mfa-enabled-for-iam-console-access,Periodic,true

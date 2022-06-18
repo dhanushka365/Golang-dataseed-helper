@@ -1,0 +1,3 @@
+id,availableCloudId,cloudAssetCategoryId,name,description
+1,1,1,EC2,"offers the broadest and deepest compute platform, with over 500 instances and choice of the latest processor, storage, networking, operating system, and purchase model to help best match the needs of workload"
+2,1,1,Images (AMI),supported and maintained image provided by AWS that provides the information required to launch an instance

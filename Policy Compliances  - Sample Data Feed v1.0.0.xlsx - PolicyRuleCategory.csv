@@ -1,0 +1,4 @@
+id,name,description
+1,Identity and Access Management,Apply fine-grained permissions to AWS services and resources
+2,ACM Certificate,"makes it easy to provision, manage, and deploy SSL/TLS certificates on AWS managed resource"
+3,API Gateway,an API management tool between a client and a collection of backend services

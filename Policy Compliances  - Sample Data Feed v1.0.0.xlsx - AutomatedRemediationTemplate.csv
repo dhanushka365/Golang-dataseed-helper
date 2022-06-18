@@ -1,0 +1,3 @@
+id,templateKey,tamplateName
+1,remove-s3-bucket-public-access_v1,remove s3 bucket public access
+2,remove-security-group-ssh-port-access_v1,Remove Security Group for Public Access (Inbound)

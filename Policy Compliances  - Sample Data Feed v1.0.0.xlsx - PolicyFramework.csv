@@ -1,0 +1,2 @@
+id,code,name,description,isEnabled,isCostomized,logo
+1,1.2.0,AWS CIS,"The CIS Security Benchmarks program provides well-defined, unbiased, consensus-based industry best practices to help organizations assess and improve their security",true,false,assets/img/logo/cis-logo.png
